@@ -7,7 +7,7 @@ public class Dita3 {
         int x=27;
         if(x < 18)
         {
-            System.out.println("nuk keni drejte vote"); //veprimi i if
+            System.out.println("nuk keni drejte vote"); 
         }
         
         else{
@@ -18,7 +18,7 @@ public class Dita3 {
         int y=27;
         if(y<18) 
         {
-            System.out.println("nuk keni drejte vote"); //veprimi i if
+            System.out.println("nuk keni drejte vote"); 
         }
         
         else if(y>=18){
@@ -27,7 +27,7 @@ public class Dita3 {
         }
         
         else{
-            System.out.println("Kjo nuk eshte moshe "); 
+            System.out.println("Vendoseni nje numer te rregullt "); 
               
         }
           

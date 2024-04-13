@@ -35,6 +35,7 @@ public class Dita3 {
         System.out.println("Sheno moshen");
         Scanner d = new Scanner(System.in);
         int age=d.nextInt();
+        d.close();
 
         if(age>18){
             System.out.println("mosha juaj eshte mbi 18");

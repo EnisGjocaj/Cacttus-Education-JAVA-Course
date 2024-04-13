@@ -17,7 +17,7 @@ public class Dita2 {
         //Operatoret Percaktues
         
         int r=4;
-        int d=7;
+        // int d=7;
         System.out.println(r);  //4
         r+=3; // c=c+3 //4 7
         System.out.println(r);

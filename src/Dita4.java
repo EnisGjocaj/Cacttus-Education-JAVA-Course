@@ -31,5 +31,22 @@ public class Dita4 {
             y++;
         }
         while(y < 5);
+
+
+        //for loop
+
+        int z;
+
+        for(z = 5; z <= 10; z++){
+
+            System.out.println("x"+x);
+        }
+
+        int p = 1;
+
+        for(;p <= 10; p++){
+
+            System.out.println("x"+p);
+        }
     }
 }

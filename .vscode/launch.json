@@ -1,0 +1,77 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "DetyreShtepieOra5",
+            "request": "launch",
+            "mainClass": "detyreShtepie.DetyreShtepieOra5",
+            "projectName": "JavaCacttusEducationCourse_fe63c907"
+        },
+        {
+            "type": "java",
+            "name": "DetyreShtepieOra3",
+            "request": "launch",
+            "mainClass": "detyreShtepie.DetyreShtepieOra3",
+            "projectName": "JavaCacttusEducationCourse_fe63c907"
+        },
+        {
+            "type": "java",
+            "name": "DetyreShtepieOra5",
+            "request": "launch",
+            "mainClass": "DetyreShtepieOra5",
+            "projectName": "JavaCacttusEducationCourse_fe63c907"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Detyra1Dita2",
+            "request": "launch",
+            "mainClass": "Detyra1Dita2",
+            "projectName": "JavaCacttusEducationCourse_fe63c907"
+        },
+        {
+            "type": "java",
+            "name": "Dita1",
+            "request": "launch",
+            "mainClass": "Dita1",
+            "projectName": "JavaCacttusEducationCourse_fe63c907"
+        },
+        {
+            "type": "java",
+            "name": "Dita2",
+            "request": "launch",
+            "mainClass": "Dita2",
+            "projectName": "JavaCacttusEducationCourse_fe63c907"
+        },
+        {
+            "type": "java",
+            "name": "Dita3",
+            "request": "launch",
+            "mainClass": "Dita3",
+            "projectName": "JavaCacttusEducationCourse_fe63c907"
+        },
+        {
+            "type": "java",
+            "name": "Dita4",
+            "request": "launch",
+            "mainClass": "Dita4",
+            "projectName": "JavaCacttusEducationCourse_fe63c907"
+        },
+        {
+            "type": "java",
+            "name": "Dita5",
+            "request": "launch",
+            "mainClass": "Dita5",
+            "projectName": "JavaCacttusEducationCourse_fe63c907"
+        }
+    ]
+}

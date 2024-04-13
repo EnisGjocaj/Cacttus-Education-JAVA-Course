@@ -1,6 +1,8 @@
+package detyreShtepie;
+
 import java.util.Scanner;
 
-public class DetyreShtepie1 {
+public class DetyreShtepieOra3 {
     public static void main(String[] args){
 
         //Detyra 1
@@ -10,6 +12,7 @@ public class DetyreShtepie1 {
         System.out.println("Vendoseni nje tekst.");
 
         text=scanner.nextLine();
+        scanner.close();
 
         if(text.length() > 8){
             System.out.println("Keni qasje!");
